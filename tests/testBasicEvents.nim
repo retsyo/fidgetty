@@ -1,7 +1,7 @@
 import std/strformat, std/hashes
 
-import fidgets
-import fidgets/[button, progressbar, animatedProgress]
+import fidgetty
+import fidgetty/[button, progressbar, animatedProgress]
 
 loadFont("IBM Plex Sans", "IBMPlexSans-Regular.ttf")
 
